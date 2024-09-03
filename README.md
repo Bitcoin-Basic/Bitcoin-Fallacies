@@ -6,112 +6,82 @@
 
 <div class="slideshow-container">
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00001.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-01.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00002.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-02.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00003.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-03.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00004.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-04.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00005.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-05.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00006.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-06.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00007.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-07.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00004.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-04.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00008.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-08.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00009.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-09.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00010.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-10.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00011.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-11.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00012.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-12.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00013.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-13.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00014.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-14.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00015.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-15.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00016.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-16.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00017.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-17.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00018.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-18.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00019.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-19.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00020.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-20.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00021.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-21.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00022.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-22.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00023.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-23.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00024.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-24.jpg" style="width:100%">
   </div>
   <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00025.jpg" style="width:100%">
-  </div>
-  <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00026.jpg" style="width:100%">
-  </div>
-  <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00027.jpg" style="width:100%">
-  </div>
-  <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00028.jpg" style="width:100%">
-  </div>
-  <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00029.jpg" style="width:100%">
-  </div>
-  <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00030.jpg" style="width:100%">
-  </div>
-  <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00031.jpg" style="width:100%">
-  </div>
-  <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00032.jpg" style="width:100%">
-  </div>
-  <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00033.jpg" style="width:100%">
-  </div>
-  <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00034.jpg" style="width:100%">
-  </div>
-  <div class="mySlides fade">
-    <img src="evolution of money by anil - Vietnamese (2)_00035.jpg" style="width:100%">
+    <img src="Bitcoin Fallacies by Anil - Vietnamese-images-25.jpg" style="width:100%">
   </div>
 </div>
 
