@@ -18,6 +18,39 @@ Bitcoin là một công nghệ tài chính tiền tệ mới. Sử dụng kiến
 
 ## 5. Hao Phí Năng Lượng
 - Bitcoin là một mạng lưới thanh toán điện tử cho phép truy cập tự do và có thể kiểm chứng toàn cầu với phương pháp "bằng chứng làm việc" (Proof of Work).
+- **Author**: Lyn Alden  
+**Published**: August 2021, updated December 2021  
+**Original Article**: [Bitcoin’s Energy Usage Isn’t a Problem](https://www.lynalden.com/bitcoin-energy/)
+
+---
+
+## Key Lessons and Examples
+
+### 1. Bitcoin's Energy Usage is a Rounding Error
+- **Lesson**: Bitcoin’s energy usage is minimal compared to global energy consumption. Even at its peak, Bitcoin uses less than 0.1% of the world’s energy.
+- **Example**: As of 2021, the estimated peak annualized rate of Bitcoin's energy consumption is under 140 TWh, while the world consumes over 170,000 TWh annually.
+- **Reference**: [Understanding Bitcoin’s Energy Usage](https://www.lynalden.com/bitcoin-energy/)
+
+### 2. Bitcoin Uses Otherwise Wasted Energy
+- **Lesson**: Bitcoin miners often use stranded or otherwise wasted energy sources, making its energy consumption more efficient.
+- **Example**: In China’s Sichuan province, Bitcoin miners take advantage of overbuilt hydroelectric capacity during the wet season, which would otherwise be wasted.
+- **Reference**: [How Bitcoin Uses Otherwise Wasted Energy](https://www.lynalden.com/bitcoin-energy/)
+
+### 3. Proof-of-Work and Energy Efficiency
+- **Lesson**: Bitcoin’s Proof-of-Work (PoW) algorithm is key to its decentralized and secure nature, and its energy use secures the network against attacks.
+- **Example**: Non-Bitcoin blockchains with lower energy usage have been subject to 51% attacks, while Bitcoin’s higher energy use keeps it uniquely secure.
+- **Reference**: [Bitcoin’s Proof-of-Work](https://www.lynalden.com/bitcoin-energy/)
+
+### 4. Bitcoin as a Grid Battery
+- **Lesson**: Bitcoin mining can act as a flexible energy buyer that can stabilize energy grids by using surplus energy and shutting down during high-demand periods.
+- **Example**: In Texas, Bitcoin mining companies are working to stabilize the grid by using renewable energy sources and shutting off during peak demand periods.
+- **Reference**: [Bitcoin Mining as a Grid Battery](https://www.lynalden.com/bitcoin-energy/)
+
+### 5. Scaling Through Layers
+- **Lesson**: The Bitcoin network is designed to scale efficiently through second and third layers, reducing its energy cost per transaction.
+- **Example**: The Lightning Network allows for many microtransactions to occur off-chain, with only two base layer transactions required to open and
+# Summary of "How to Value Bitcoin and Other Cryptocurrencies"
+
 
 ## 6. Phụ Thuộc Internet
 - Dù có rủi ro không thể truy cập internet, Bitcoin vẫn có thể giao dịch ngoại tuyến qua các mạng viễn thông khác.
@@ -27,19 +60,7 @@ Bitcoin là một công nghệ tài chính tiền tệ mới. Sử dụng kiến
 
 ## 8. Bán Hàng Đa Cấp
 - Bitcoin không phải là một hệ thống bán hàng đa cấp vì nó không cam kết lợi nhuận và là một phương thức mã nguồn mở.
-
-## 9. Phí Giao Dịch Cao
-- Phí giao dịch Bitcoin có thể tăng đột biến, nhưng nó vẫn là một phương thức thanh toán hiệu quả và đáng tin cậy cho các giao dịch lớn.
-
-## 10. Sở Hữu Tập Trung
-- Phần lớn Bitcoin được giữ trong các ví của các sàn giao dịch, không phải do một số ít cá nhân sở hữu.
-
-## 11. Sao Chép
-- Bitcoin là mã nguồn mở, nhưng việc sao chép và tạo ra phiên bản mới không thể mang theo tất cả các tính chất và sự phát triển của mạng lưới.
-<---details-->
-
-
-# Bitcoin: Addressing the Ponzi Scheme Characterization
+- # Bitcoin: Addressing the Ponzi Scheme Characterization
 
 **Published Date:** January 2021  
 **Author:** Lyn Alden  
@@ -81,9 +102,16 @@ Bitcoin does not exhibit the characteristics of a Ponzi scheme. It is decentrali
 
 ---
 
-**Download Link**: [Bitcoin: Addressing the Ponzi Scheme Characterization](https://www.lynalden.com/bitcoin-ponzi-scheme/)  
-**Author**: Lyn Alden
-# Bitcoin: Fee-Based Security Modeling
+## 9. Phí Giao Dịch Cao
+- Phí giao dịch Bitcoin có thể tăng đột biến, nhưng nó vẫn là một phương thức thanh toán hiệu quả và đáng tin cậy cho các giao dịch lớn.
+
+## 10. Sở Hữu Tập Trung
+- Phần lớn Bitcoin được giữ trong các ví của các sàn giao dịch, không phải do một số ít cá nhân sở hữu.
+
+## 11. Sao Chép
+- Bitcoin là mã nguồn mở, nhưng việc sao chép và tạo ra phiên bản mới không thể mang theo tất cả các tính chất và sự phát triển của mạng lưới.
+
+
 
 **Published Date:** March 2021  
 **Author:** Lyn Alden  
@@ -127,90 +155,4 @@ Bitcoin's shift from a block-reward-driven security model to one based on transa
 **Author**: Lyn Alden
 # Bitcoin's Energy Usage Isn't a Problem. Here's Why
 
-**Author**: Lyn Alden  
-**Published**: August 2021, updated December 2021  
-**Original Article**: [Bitcoin’s Energy Usage Isn’t a Problem](https://www.lynalden.com/bitcoin-energy/)
-
----
-
-## Key Lessons and Examples
-
-### 1. Bitcoin's Energy Usage is a Rounding Error
-- **Lesson**: Bitcoin’s energy usage is minimal compared to global energy consumption. Even at its peak, Bitcoin uses less than 0.1% of the world’s energy.
-- **Example**: As of 2021, the estimated peak annualized rate of Bitcoin's energy consumption is under 140 TWh, while the world consumes over 170,000 TWh annually.
-- **Reference**: [Understanding Bitcoin’s Energy Usage](https://www.lynalden.com/bitcoin-energy/)
-
-### 2. Bitcoin Uses Otherwise Wasted Energy
-- **Lesson**: Bitcoin miners often use stranded or otherwise wasted energy sources, making its energy consumption more efficient.
-- **Example**: In China’s Sichuan province, Bitcoin miners take advantage of overbuilt hydroelectric capacity during the wet season, which would otherwise be wasted.
-- **Reference**: [How Bitcoin Uses Otherwise Wasted Energy](https://www.lynalden.com/bitcoin-energy/)
-
-### 3. Proof-of-Work and Energy Efficiency
-- **Lesson**: Bitcoin’s Proof-of-Work (PoW) algorithm is key to its decentralized and secure nature, and its energy use secures the network against attacks.
-- **Example**: Non-Bitcoin blockchains with lower energy usage have been subject to 51% attacks, while Bitcoin’s higher energy use keeps it uniquely secure.
-- **Reference**: [Bitcoin’s Proof-of-Work](https://www.lynalden.com/bitcoin-energy/)
-
-### 4. Bitcoin as a Grid Battery
-- **Lesson**: Bitcoin mining can act as a flexible energy buyer that can stabilize energy grids by using surplus energy and shutting down during high-demand periods.
-- **Example**: In Texas, Bitcoin mining companies are working to stabilize the grid by using renewable energy sources and shutting off during peak demand periods.
-- **Reference**: [Bitcoin Mining as a Grid Battery](https://www.lynalden.com/bitcoin-energy/)
-
-### 5. Scaling Through Layers
-- **Lesson**: The Bitcoin network is designed to scale efficiently through second and third layers, reducing its energy cost per transaction.
-- **Example**: The Lightning Network allows for many microtransactions to occur off-chain, with only two base layer transactions required to open and
-# Summary of "How to Value Bitcoin and Other Cryptocurrencies"
-
-**Author**: Lyn Alden
-
-**Source**: [How to Value Bitcoin and Other Cryptocurrencies](https://www.lynalden.com/cryptocurrencies/)
-
-## Key Lessons
-
-### 1. **Price vs. Value**
-- **Price** is what an investor pays.
-- **Value** is what an investor gets.
-- Cryptocurrencies, especially Bitcoin, have soared in price, but determining their value is complex.
-
-### 2. **Difficulties in Valuing Cryptocurrencies**
-- Unlike traditional assets like stocks or bonds, cryptocurrencies don't produce cash flows, making standard valuation methods like discounted cash flow analysis inapplicable.
-- Valuation methods must be adapted to consider the unique nature of digital assets.
-
-### 3. **Cryptocurrency Characteristics**
-- **Scarcity**: Bitcoin has a maximum supply of 21 million units, making it inherently scarce.
-- **Decentralization**: Cryptocurrencies operate without a central authority, unlike fiat currencies.
-- **Security**: Bitcoin's encryption makes it extremely secure, but it is still subject to risks like theft of private keys.
-
-## Frameworks for Valuing Bitcoin
-
-### 1. **Quantity Theory of Money**
-- This approach applies the macroeconomic equation MV = PT, where:
-  - M = Money supply (total bitcoins)
-  - V = Velocity of money
-  - P = Price level
-  - T = Transaction volume
-- The equation is rearranged to value Bitcoin: `Bitcoin Value = T / (M * V)`
-- Example calculations show Bitcoin's value could range significantly depending on transaction volume and velocity.
-
-### 2. **National Currency Comparisons**
-- This method compares Bitcoin’s market capitalization to the money supply (M2) of countries.
-- For example, Bitcoin's market cap might be compared to countries like Israel or Malaysia, offering a rough valuation benchmark.
-
-### 3. **Store of Value**
-- Bitcoin is increasingly viewed as a store of value, similar to gold, rather than as a medium of exchange.
-- A comparison between Bitcoin and gold’s total market capitalization provides a way to value Bitcoin.
-
-### 4. **Stock-to-Flow Model**
-- This model is often used for commodities like gold and silver and applies to Bitcoin due to its capped supply.
-- The stock-to-flow ratio of Bitcoin increases with time due to halving events, which limit new Bitcoin supply.
-  
-## Example Valuation Scenarios
-
-- **Optimistic**: If Bitcoin becomes widely adopted, a significant portion of global GDP could transact in cryptocurrencies, leading to high valuations (e.g., $75,000 per Bitcoin).
-- **Pessimistic**: If adoption remains limited, or Bitcoin loses market share to other cryptocurrencies, its value could fall dramatically (e.g., below $1,000).
-
-## Final Thoughts
-- The future value of Bitcoin hinges on its adoption as a store of value or medium of exchange.
-- Cryptocurrencies are extremely volatile and speculative, making their future value difficult to predict with certainty.
-
-**Source**: [How to Value Bitcoin and Other Cryptocurrencies](https://www.lynalden.com/cryptocurrencies/)
 
